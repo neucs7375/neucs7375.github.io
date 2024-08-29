@@ -4,7 +4,7 @@ layout: home
 ---
 
 ### Course Overview
-The class is a seminar course on human-centered privacy design and systems. In this class, we will explore the topic of designing and developing privacy-aware digital systems by providing an overview of technical, design, and legal perspectives. Students will learn theoretical frameworks of privacy, privacy design principles, privacy laws, and privacy-enhancing technologies. We will also cover user research methods that are useful for designing and evaluating digital systems that are aware of and respectful to users’ privacy preferences, informed by their lived experiences. In the latter part of this course, we will discuss special topics in human-centered privacy design and system building, including the privacy implications of emerging technologies (e.g., AI, XR), inclusive privacy design challenges, and engineering support for privacy by design.
+The class is a seminar course on human-centered privacy design and systems. In this class, we will explore the topic of designing and developing privacy-aware digital systems by providing an overview of technical, design, and legal perspectives. Students will learn theoretical frameworks of privacy, privacy design principles, privacy laws, and privacy-enhancing technologies. We will also cover user research methods that are useful for designing and evaluating digital systems that are aware of and respectful to users’ privacy preferences, informed by their lived experiences. In the latter part of this course, we will discuss special topics in human-centered privacy design and system building, including the privacy implications of emerging technologies (e.g., LLM, XR), inclusive privacy design challenges, and engineering support for privacy by design.
 
 ### Learning Objectives
 Privacy issues are becoming a primary concern in the increasingly connected and data-intensive world. This course aims to equip students with the skills and knowledge to manage privacy issues responsibly as researchers and practitioners. Specifically, by taking this course, you are expected to gain:
@@ -158,7 +158,7 @@ Office Hours: Wednesday 1-2pm
     </tr>
     <tr>
         <td rowspan="2">Week 8</td>
-        <td rowspan="2">AI privacy (Language)</td>
+        <td rowspan="2">AI privacy (LLM)</td>
         <td>Oct 21</td>
         <td>Lecture</td>
         <td rowspan="2">
