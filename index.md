@@ -68,7 +68,7 @@ Office Hours: Wednesday 1-2pm
         <br><br>
         <a href="https://dl.acm.org/doi/10.1145/3613904.3642116">Deepfakes, Phrenology, Surveillance, and More! A Taxonomy of AI Privacy Risks</a>
         <br><br>
-        <a href="">PrivacyLens: Evaluating Privacy Norm Awareness of Language Models in Action</a>
+        <a href="https://arxiv.org/abs/2409.00138">PrivacyLens: Evaluating Privacy Norm Awareness of Language Models in Action</a>
         </td>
     </tr>
     <tr>
