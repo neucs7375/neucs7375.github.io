@@ -15,7 +15,7 @@ Privacy issues are becoming a primary concern in the increasingly connected and 
 ### Administrivia
 Classroom: West Village H (WVH) 366
 <br>
-Time: Monday and Wednesday 3-4:30pm
+Time: Monday and Wednesday 2:50-4:30pm
 <br>
 Instructor: [Tianshi Li](https://tianshili.me)
 <br>
