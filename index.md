@@ -49,7 +49,7 @@ Office Hours: Wednesday 1-2pm
     </tr>
     <tr>
         <td rowspan="2">Week 1</td>
-        <td rowspan="2">Introduction</td>
+        <td rowspan="2"><a href="/assets/pdf/week1-introduction.pdf">Introduction</a></td>
         <td>Sep 2 (Labor day, no class)</td>
         <td></td>
         <td rowspan="2">N/A</td>
