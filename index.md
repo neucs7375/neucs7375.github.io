@@ -77,7 +77,7 @@ Office Hours: Wednesday 1-2pm
     </tr>
     <tr>
         <td rowspan="2">Week 3</td>
-        <td rowspan="2">Foundations of human-centered privacy</td>
+        <td rowspan="2"><a href="/assets/pdf/week3-humancenteredprivacy.pdf">Foundations of human-centered privacy</a></td>
         <td>Sep 16</td>
         <td>Lecture</td>
         <td rowspan="2">
