@@ -240,10 +240,10 @@ An Empirical Study of UI Security Properties in Augmented Reality (USENIX Securi
     </tr>
     <tr>
         <td rowspan="2">Week 13</td>
-        <td rowspan="2">Special Topic (pending)</td>
+        <td rowspan="2">Inclusive Privacy (discussion)</td>
         <td>Nov 25</td>
-        <td>Lecture</td>
-        <td rowspan="2">TBD</td>
+        <td>Discussion</td>
+        <td rowspan="2">Discussing the readings in Week 11</td>
     </tr>
     <tr>
         <td>Nov 27 (Fall break, no class)</td>
