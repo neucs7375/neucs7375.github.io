@@ -130,7 +130,7 @@ Office Hours: Wednesday 1-2pm
         <td rowspan="2">Week 6</td>
         <td rowspan="2">Privacy-Enhancing Technologies</td>
         <td>Oct 7</td>
-        <td>Lecture</td>
+        <td>Guest Lecture (Speaker: <a href="https://scholar.harvard.edu/jsarathy/home">Dr. Jayshree Sarathy)</a></td>
         <td rowspan="2">
         <a href="https://dl.acm.org/doi/10.1145/3460120.3485252">"I need a better description'': An Investigation Into User Expectations For Differential Privacy (CCS 2021)</a>
         <br> <br>
@@ -154,7 +154,7 @@ Office Hours: Wednesday 1-2pm
     </tr>
     <tr>
         <td>Oct 16</td>
-        <td>Lecture</td>
+        <td>Guest Lecture (Speaker: <a href="https://ai.stanford.edu/~kzliu/">Ken Liu</a>)</td>
     </tr>
     <tr>
         <td rowspan="2">Week 8</td>
