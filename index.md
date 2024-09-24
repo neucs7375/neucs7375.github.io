@@ -13,7 +13,7 @@ Privacy issues are becoming a primary concern in the increasingly connected and 
 - The ability to appreciate, critique, and conduct research at the intersection of HCI and privacy.
 
 ### Administrivia
-Classroom: West Village H (WVH) 366
+Classroom: West Village H (WVH) 166
 <br>
 Time: Monday and Wednesday 2:50-4:30pm
 <br>
