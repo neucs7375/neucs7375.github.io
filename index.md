@@ -94,7 +94,7 @@ Office Hours: Wednesday 1-2pm
     </tr>
     <tr>
         <td rowspan="2">Week 4</td>
-        <td rowspan="2">Privacy and Compliance</td>
+        <td rowspan="2"><a href="/assets/pdf/week4-compliance.pdf">Privacy and Compliance</a></td>
         <td>Sep 23</td>
         <td>Lecture</td>
         <td rowspan="2">
