@@ -111,7 +111,7 @@ Office Hours: Wednesday 1-2pm
     </tr>
     <tr>
         <td rowspan="2">Week 5</td>
-        <td rowspan="2">Privacy Design Principles</td>
+        <td rowspan="2"><a href="/assets/pdf/week5-privacydesignprinciples.pdf">Privacy Design Principles</a></td>
         <td>Sep 30</td>
         <td>Lecture</td>
         <td rowspan="2">
