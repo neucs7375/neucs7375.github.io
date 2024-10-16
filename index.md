@@ -145,7 +145,7 @@ Office Hours: Wednesday 1-2pm
     </tr>
     <tr>
         <td rowspan="2">Week 7</td>
-        <td rowspan="2">AI Privacy</td>
+        <td rowspan="2"><a href="https://docs.google.com/presentation/d/1WzQnSjBKXR_alJpRboh87A5xm7cCzrSJZRktKyxpAes/edit?usp=sharing">AI Privacy</a></td>
         <td>Oct 14 (Indigenous Peoples’ Day, no class)</td>
         <td></td>
         <td rowspan="2">
