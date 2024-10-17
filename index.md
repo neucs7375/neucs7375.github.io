@@ -181,7 +181,9 @@ Office Hours: Wednesday 1-2pm
         <td rowspan="2">
         <a href="https://arxiv.org/pdf/2407.04952">Granular Privacy Control for Geolocation with Vision Language Models</a>
         <br> <br>
-        <a href="https://dl.acm.org/doi/abs/10.5555/3523760.3523790">CONFIDANT: A Privacy Controller for Social Robots</a>
+        <a href="https://dl.acm.org/doi/abs/10.5555/3523760.3523790">CONFIDANT: A Privacy Controller for Social Robots (HRI 2022)</a>
+        <br> <br>
+        <a href="https://openreview.net/pdf?id=SwUsFTtM9h">Iteratively Prompting Multimodal LLMs to Reproduce Natural and AI-Generated Images (COLM 2024)</a>
         </td>
     </tr>
     <tr>
