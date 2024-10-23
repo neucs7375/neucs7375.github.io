@@ -158,7 +158,7 @@ Office Hours: Wednesday 1-2pm
     </tr>
     <tr>
         <td rowspan="2">Week 8</td>
-        <td rowspan="2">AI privacy (LLM)</td>
+        <td rowspan="2"><a href="/assets/pdf/week8-aiprivacy.pdf">AI privacy (LLM)</a></td>
         <td>Oct 21</td>
         <td>Lecture</td>
         <td rowspan="2">
