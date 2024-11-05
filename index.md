@@ -192,7 +192,7 @@ Office Hours: Wednesday 1-2pm
     </tr>
     <tr>
         <td rowspan="2">Week 10</td>
-        <td rowspan="2">XR and Privacy</td>
+        <td rowspan="2"><a href="/assets/pdf/week10-xrprivacy.pdf">XR and Privacy</a></td>
         <td>Nov 4</td>
         <td>Lecture</td>
         <td rowspan="2">
