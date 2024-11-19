@@ -207,7 +207,7 @@ An Empirical Study of UI Security Properties in Augmented Reality (USENIX Securi
     </tr>
     <tr>
         <td rowspan="2">Week 11</td>
-        <td rowspan="2"><a href="/asserts/pdf/week11-inclusiveprivacy.pdf">Inclusive Privacy</a></td>
+        <td rowspan="2"><a href="/assets/pdf/week11-inclusiveprivacy.pdf">Inclusive Privacy</a></td>
         <td>Nov 11 (Veterans Day, no class)</td>
         <td></td>
         <td rowspan="2">
