@@ -32,7 +32,7 @@ Office Hours: Wednesday 1-2pm
 - 30% Individual project, including
     - 5% Initial idea description
     - 10% Project proposal presentation
-    - 15% Final presentation
+    - 15% Final presentation (if you work on an original research project) or literature review manuscript (if you work on a literature review project)
 
 ### Schedule
 
