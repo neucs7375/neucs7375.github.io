@@ -40,7 +40,7 @@ Office Hours: Wednesday 1-2pm
 
 | Week    | Topic |  Date  | Reading List | Note |
 | -------- | ------- | ------- | ------- | ------- |
-| Week 1  |  Introduction  |  01/06  |  N/A  |  Discussion lead sign-up due on **Jan 10**  |
+| Week 1  |  [Introduction](/assets/pdf/week1-introduction.pdf)  |  01/06  |  N/A  |  Discussion lead sign-up due on **Jan 10**  |
 | Week 2  |  Key concepts in privacy  |  01/13  |  [Deepfakes, Phrenology, Surveillance, and More! A Taxonomy of AI Privacy Risks (CHI 2024)](https://dl.acm.org/doi/10.1145/3613904.3642116) <br> <br> [PrivacyLens: Evaluating Privacy Norm Awareness of Language Models in Action (NeurIPS 2024)](https://arxiv.org/abs/2409.00138)  |    |
 | Week 3  |  USA: Martin Luther King, Jr. Day, no classes |  01/20  |  N/A  |    |
 | Week 4  |  Foundations of human-centered privacy |  01/27 | [“My Data Just Goes Everywhere:” User Mental Models of the Internet and Implications for Privacy and Security (SOUPS 2015)](https://www.usenix.org/system/files/conference/soups2015/soups15-paper-kang.pdf) <br> <br> [Expectation and purpose: understanding users' mental models of mobile app privacy through crowdsourcing (UbiComp 2012)](https://dl.acm.org/doi/10.1145/2370216.2370290)   |    |
