@@ -40,7 +40,7 @@ Office Hours: Wednesday 1-2pm
 
 | Week    | Topic |  Date  | Reading List | Note |
 | -------- | ------- | ------- | ------- | ------- |
-| Week 1  |  Introduction  |  09/08  |  N/A  |  Discussion lead bidding due on **Sept 12**  |
+| Week 1  |  <a href="/assets/pdf/week1-introduction.pdf">Introduction</a>  |  09/08  |  N/A  |  Discussion lead bidding due on **Sept 12**  |
 | Week 2  |  Key concepts in privacy  |  09/15  |  [Deepfakes, Phrenology, Surveillance, and More! A Taxonomy of AI Privacy Risks (CHI 2024)](https://dl.acm.org/doi/10.1145/3613904.3642116) <br> <br> [PrivacyLens: Evaluating Privacy Norm Awareness of Language Models in Action (NeurIPS 2024)](https://arxiv.org/abs/2409.00138)  |    |
 | Week 3  |  Foundations of human-centered privacy |  09/22 | [“My Data Just Goes Everywhere:” User Mental Models of the Internet and Implications for Privacy and Security (SOUPS 2015)](https://www.usenix.org/system/files/conference/soups2015/soups15-paper-kang.pdf) <br> <br> [Expectation and purpose: understanding users' mental models of mobile app privacy through crowdsourcing (UbiComp 2012)](https://dl.acm.org/doi/10.1145/2370216.2370290)   |    |
 | Week 4  | Privacy and Compliance |  09/29  | [Toggles, Dollar Signs, and Triangles: How to (In)Effectively Convey Privacy Choices with Icons and Link Texts (CHI 2021)](https://dl.acm.org/doi/10.1145/3411764.3445387) <br> <br> [Honesty is the Best Policy: On the Accuracy of Apple Privacy Labels Compared to Apps' Privacy Policies (PETS 2024)](https://petsymposium.org/popets/2024/popets-2024-0111.php)  |    |
