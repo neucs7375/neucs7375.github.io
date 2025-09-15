@@ -27,7 +27,7 @@ Office Hours: Wednesday 1-2pm
 ### Grading
 - 30% Class Participation
 - 20% Reading Commentaries
-- 10% Discussion Lead
+- 10% Discussion Lead ([Schedule sheet](https://docs.google.com/spreadsheets/d/1F7FJKW_he3fmpG3F2yVuq_d4fdwNU9XdCyruz3O5lf8/edit?usp=sharing))
 - 10% DP Assignment
 - 30% Individual project, including
     - 5% Initial idea description
