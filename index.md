@@ -81,3 +81,5 @@ Office Hours: Wednesday 1-2pm
 - [Honeysuckle: Annotation-Guided Code Generation of In-App Privacy Notices (UbiComp 2021)](https://dl.acm.org/doi/pdf/10.1145/3478097)
 - [From Interaction to Impact: Towards Safer AI Agents Through Understanding and Evaluating UI Operation Impacts](https://arxiv.org/pdf/2410.09006)
 - [The Obvious Invisible Threat: LLM-Powered GUI Agents' Vulnerability to Fine-Print Injections](https://arxiv.org/abs/2504.11281)
+- [Privacy and human behavior in the age of information](https://www.science.org/doi/full/10.1126/science.aaa1465)
+- [What Is Privacy Worth?](https://www.journals.uchicago.edu/doi/abs/10.1086/671754)
